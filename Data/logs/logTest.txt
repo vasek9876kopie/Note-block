@@ -1,0 +1,10 @@
+#log name: 22.10.2020.dat
+#log first line:
+verze ukládání jídel
+(0.0.1)
+
+#log line: 
+čas}jídlo}poznámky}označení}
+(čas=22:00)
+(jídlo=)
+(označení=hvězda}!}?)
